@@ -1,0 +1,240 @@
+@media(max-width: 1200px){
+	.img-blog img{
+		width: 800px !important;
+	}
+	.text-img-python{
+		width: 100%;
+	}
+	.text-img-contact > div{
+
+	}
+	.text-img-contact > div div{
+		margin: 10px auto !important;
+	}
+	.text-img-contact button{
+		margin-bottom: 20px;
+	}
+}
+
+@media(max-width: 1050px){
+	.img-blog img{
+		width: 650px !important;
+	}
+	.box{
+		width: 250px !important;
+	}
+	footer .container > div{
+		display: flex !important;
+		flex-wrap: wrap;
+	}
+}
+@media(max-width: 992px){
+	.navbar-toggler-icon{
+		background-color: #fff
+	}
+	.navbar-fixed{
+		display: none;
+	}
+	.box{
+		width: 170px !important;
+	}
+	.img-blog{
+		display: flex;
+		flex-direction: column;
+	}
+	.img-blog .blog-text{
+		margin: 0 auto !important;
+		margin-top: 20px !important;
+		width: 100% !important;
+	}
+	.img-blog .blog-text p{
+		margin-bottom: 0 !important;
+	}
+	.img-blog img{
+		width: 100% !important;
+	}
+	.counter_area .boxs{
+		display: flex;
+		flex-direction: column;
+	}
+	.counter_area .boxs > .box{
+		width: 100% !important;
+	}
+	.counter_area .boxs .box{
+		margin-bottom: 20px !important;
+	}
+	footer .container > div div{
+		margin-bottom: 20px;
+		margin-right: 40px;
+	}
+	footer .container > div div h4{
+		margin-bottom: 10px !important;
+	}
+	footer .container .wrap-socials > div{
+		margin-bottom: 0 !important;
+	}
+	footer .footer-socials{
+		margin-top: 0 !important;
+	}
+
+}	
+
+@media(max-width: 768px){
+	.text-img-python button{
+		padding: 10px 50px !important;
+	}
+	.text-img-c button{
+		padding: 10px 50px !important;
+	}
+	.text-img-frontend button{
+		padding: 10px 50px !important;
+	}
+	.text-img-grafik button{
+		padding: 10px 50px !important;
+	}
+	.text-img-java button{
+		padding: 10px 50px !important;
+	}
+	.text-img-javascript button{
+		padding: 10px 50px !important;
+	}
+	.text-img-models button{
+		padding: 10px 50px !important;
+	}
+	.text-img-php button{
+		padding: 10px 50px !important;
+	}
+	.text-img-smm button{
+		padding: 10px 50px !important;
+	}
+	.price-wrap{
+		display: flex;
+		flex-direction: column;		
+	}
+	.price-wrap > .price{
+		margin-bottom: 30px;
+	}
+	.wrap-cont{
+		display: flex;
+		flex-direction: column;
+	}
+	.wrap-cont .contingent{
+		width: 100% !important;
+	}
+	.contingent-info > .container > div{
+		padding: 0 !important;
+	}
+	.contingent-info h1{
+		margin: 10px auto !important;
+		width: 100% !important;	
+	}
+	.contingent-info h4{
+		text-align: center;
+	}
+	.modal-body button{
+		padding: 10px 100px !important;
+	}
+	.boxs{
+		display: flex !important;
+		flex-direction: column !important;
+	}
+	.box{
+		width: 100% !important;
+	}
+	footer .container > div{
+		display: flex;
+		justify-content: center;
+		/*margin: 0 auto !important;*/
+		/*width: 100% !important;*/
+	}
+	footer .container > div div{
+		margin: 0 auto !important;
+		margin-bottom: 30px !important;
+		width: 100% !important;
+		text-align: center;
+	}
+	footer .container .wrap-socials .phone-icon{
+		display: flex;
+		justify-content: center;
+	}
+	footer .container .wrap-socials .footer-socials{
+		display: flex;
+		justify-content: center;
+	}
+	.information .container > div{
+		display: flex;
+		flex-direction: column;
+	}
+	.contingent-info .container > div{
+		display: flex;
+		flex-direction: column;
+	}
+	.map{
+		width: 100% !important;
+	}
+	.text-img-contact button{
+		padding: 5px !important;
+	}
+	.information h1{
+		margin: 10px auto !important;
+		width: 100% !important;
+		text-align: center;
+	}
+	.information h4{
+		text-align: center;
+	}
+}
+@media(max-width: 425px){
+	.wrap-cont{
+		margin-bottom: 20px !important;
+	}
+	.modal-body button{
+		padding: 10px 60px !important;
+	}
+	.text-img-open-class button{
+		padding: 1px !important;
+		margin-bottom: 1px !important;
+	}
+	.text-img-contact button{
+		padding: 1px !important;
+		margin-bottom: 1px !important;
+	}
+	.information h1{
+		margin: 0 !important;
+		width: 100% !important;
+	}
+	.information .container > div > div{
+		padding: 0 !important;
+	}
+	.information .container > div{
+		padding: 20px 10px !important;
+	}
+
+}
+@media(max-width: 375px){
+	.modal-body button{
+		padding: 10px 40px !important;
+	}
+	.text-img-open-class .phone-icon{
+		margin: 10px !important;
+	}
+	.text-img-open-class > div{
+		display: flex;
+		justify-content: center;
+	}
+	.text-img-open-class h1{
+		margin-bottom: 0 !important;
+
+	}
+	.text-img-contact h1{
+		margin-bottom: 0 !important;
+	}
+	.text-img-contact > div{
+		display: flex;
+		justify-content: center;
+	}
+	.text-img-contact > div div{
+		margin: 5px 10px !important;
+	}
+
+}
